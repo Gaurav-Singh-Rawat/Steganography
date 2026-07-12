@@ -2,6 +2,8 @@
 
 A Flask-based web application for hiding and extracting secret messages in images and audio (WAV) files using steganography.
 
+**Live Application:** [https://steganography-2.onrender.com](https://steganography-2.onrender.com)
+
 ## Features
 
 - **Image Steganography:** Hide and reveal messages in PNG, BMP, or JPG images.
